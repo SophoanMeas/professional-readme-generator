@@ -1,13 +1,12 @@
-function generateMarkDown(data) {
-    return `
-    # ${data.projectTitle}
+
+    # asd
     ![License Badge]()
     
     ## Description
-    ${data.description}
+    3qewrassgs
 
     ## Table of Contents
-    [Title](#${data.projecTitle})
+    [Title](#undefined)
     [Description](#description)
     [Installation](#installation)
     [Usage](#usage)
@@ -17,17 +16,14 @@ function generateMarkDown(data) {
     [Questions](#questions)
 
     ## Installation
-    ${data.install}
+    fdsafdvc
     ## Usage
-    ${data.usage}
+    asdsdfz
     ## License
-    ${data.license}
+    Google
     ## Contribution
-    ${data.contribution}
+    asq21rqa
     ## Tests
-    ${data.test}
+    posad
     ## Questions
-    `
-}
-
-module.exports = generateMarkDown;
+    
