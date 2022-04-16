@@ -100,7 +100,7 @@ const promptQuestions = () => {
             type: 'list',
             name: 'license',
             message: `Select a ${cl.whiteBright.bold('license from the list.')}`,
-            choices: ['Mozilla Public License 2.0', 'GNU GPL v3', 'The MIT License', 'The Perl License', 'IBM Public License Version 1.0']
+            choices: ['Mozilla', 'GNU', 'MIT', 'Perl', 'IBM']
         },
         {
             type: 'input',

@@ -1,11 +1,11 @@
 
 
-<h1 align="center">asd</h1>
+<h1 align="center">ReadME</h1>
 
-[License Badge](https://img.shields.io/github/license/sophoanMeas/readme})
-
+![License Badge](https://img.shields.io/github/license/sophoanMeas/professional-readme-generator)
+https://img.shields.io/github/license/sophoanMeas/professional-readme-generator?color=y&label=GNU &logo=GNU
 ---
-
+![License Badge](https://img.shields.io/github/license/sophoanMeas/professional-readme-generator?color=y&logo=perl&label=Perl)
 # Description
 
 asd
@@ -30,11 +30,11 @@ asd
  
 # Usage
 
-as
+asd
 
 # Contribution
 
-dasd
+asd
 
 # Test
 
@@ -52,14 +52,14 @@ asd
 
 <h4>Have a question? Feel free to drop me an email.
 
-📧[asd@hotmail.com](mailto:asd@hotmail.com)
+📧[pon@hotmail.com](mailto:pon@hotmail.com)
 
 ---
 
 # License
 
 #### Copyright© [sophoanMeas](https://github.com/sophoanMeas). All rights reserved.
-#### License under *The Perl License*
+#### License under *GNU GPL v3*
 
 ---
     

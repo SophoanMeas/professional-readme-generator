@@ -4,7 +4,7 @@ function generateMarkDown(data) {
 
 <h1 align="center">${data.projectTitle}</h1>
 
-[License Badge](https://img.shields.io/github/license/${data.githubUser}/${data.repoName}})
+![License Badge](https://img.shields.io/github/license/${data.githubUser}/${data.repoName}})
 
 ---
 
@@ -61,7 +61,7 @@ ${data.test}
 # License
 
 #### Copyright© [${data.githubUser}](https://github.com/${data.githubUser}). All rights reserved.
-#### License under *${data.license}*
+#### Licensed under *${data.license}*
 
 ---
     `
