@@ -14,6 +14,18 @@ function error(string) {
 const promptQuestions = () => {
     return inquirer.prompt([{
             type: 'type',
+            name: 'repoName',
+            message: `Enter a  ${cl.magenta.bold('respository name.')}`,
+            validate: input => {
+                if (input) {
+                    return true;
+                } else {
+                    error('Please enter a repository name!')
+                }
+            }
+        },
+        {
+            type: 'type',
             name: 'projectTitle',
             message: `Enter a  ${cl.cyanBright.bold('project title.')}`,
             validate: input => {
@@ -92,7 +104,7 @@ const promptQuestions = () => {
         },
         {
             type: 'input',
-            name: 'github_user',
+            name: 'githubUser',
             message: `Enter your ${cl.yellowBright.bold('GitHub username.')}`,
             validate: input => {
                 if (input) {
