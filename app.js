@@ -13,19 +13,6 @@ function error(string) {
 
 const promptQuestions = () => {
     return inquirer.prompt([{
-            type: 'input',
-            name: 'repoTitle',
-            message: `Enter the application ${cl.magentaBright.bold('repository name.')}`,
-            validate: input => {
-                if (input) {
-                    return true;
-                } else {
-                    error('Please enter a repo name!')
-                    return false;
-                }
-            }
-        },
-        {
             type: 'type',
             name: 'projectTitle',
             message: `Enter a  ${cl.cyanBright.bold('project title.')}`,
@@ -51,7 +38,7 @@ const promptQuestions = () => {
         },
         {
             type: 'input',
-            name: 'install',
+            name: 'installation',
             message: `Enter the ${cl.greenBright.bold('installation instruction.')}`,
             vlaidate: input => {
                 if (input) {
@@ -89,7 +76,7 @@ const promptQuestions = () => {
             type: 'input',
             name: 'test',
             message: `Enter the ${cl.greenBright.bold('test instructions.')}`,
-            validae: input => {
+            validate: input => {
                 if (input) {
                     return true;
                 } else {
@@ -101,11 +88,11 @@ const promptQuestions = () => {
             type: 'list',
             name: 'license',
             message: `Select a ${cl.whiteBright.bold('license from the list.')}`,
-            choices: ['Google', 'Microsoft Azura', 'Amazon AWS', 'MIT xPro', 'edX']
+            choices: ['Mozilla Public License 2.0', 'GNU GPL v3', 'The MIT License', 'The Perl License', 'IBM Public License Version 1.0']
         },
         {
             type: 'input',
-            name: 'github-user',
+            name: 'github_user',
             message: `Enter your ${cl.yellowBright.bold('GitHub username.')}`,
             validate: input => {
                 if (input) {
@@ -114,8 +101,7 @@ const promptQuestions = () => {
                     error('Please enter your GitHub username!')
                 }
             }
-        },
-        {
+        }, {
             type: 'input',
             name: 'email',
             message: `Enter your ${cl.yellowBright.bold('email address.')}`,
@@ -127,7 +113,7 @@ const promptQuestions = () => {
                 }
             }
         },
-    ]);
+    ])
 }
 
 function init() {
@@ -136,6 +122,7 @@ function init() {
             writeFile('README.md', generateMarkDown(data))
                 .then(data => console.log(data.message))
         })
+
 }
 
 const writeFile = (fileName, data) => {
