@@ -1,14 +1,14 @@
 
 
-<h1 align="center">ReadME</h1>
+<h1 align="center">ReadMe Generator</h1>
 
-![License Badge](https://img.shields.io/github/license/sophoanMeas/professional-readme-generator)
-https://img.shields.io/github/license/sophoanMeas/professional-readme-generator?color=y&label=GNU &logo=GNU
+![License Badge](https://img.shields.io/github/license/sophoanMeas/professional-readme-generator?&logo=GNU)
+
 ---
-![License Badge](https://img.shields.io/github/license/sophoanMeas/professional-readme-generator?color=y&logo=perl&label=Perl)
+
 # Description
 
-asd
+generateo readme
 
 # Table of Contents
 
@@ -26,7 +26,7 @@ asd
 
 # Installation
 
-asd
+as
  
 # Usage
 
@@ -43,23 +43,24 @@ asd
 # Questions
 
 ---
+
 <h1 align="center">Contact Me</h1>
 
 
-<h4>Check out my Github for more projects</h4>
+Check out my Github for more projects
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/sophoanMeas)
 
-<h4>Have a question? Feel free to drop me an email.
+Have a question? Feel free to drop me an email.
 
-📧[pon@hotmail.com](mailto:pon@hotmail.com)
+📧[sophoan.meas@hotmail.com](mailto:sophoan.meas@hotmail.com)
 
 ---
 
 # License
 
 #### Copyright© [sophoanMeas](https://github.com/sophoanMeas). All rights reserved.
-#### License under *GNU GPL v3*
+#### Licensed under *GNU*
 
 ---
     
