@@ -111,7 +111,8 @@ const promptQuestions = () => {
                     error('Please enter your GitHub username!')
                 }
             }
-        }, {
+        }, 
+        {
             type: 'input',
             name: 'email',
             message: `Enter your ${cl.yellowBright.bold('email address.')}`,
@@ -132,7 +133,6 @@ function init() {
             writeFile('README.md', generateMarkDown(data))
                 .then(data => console.log(data.message))
         })
-
 }
 
 const writeFile = (fileName, data) => {
