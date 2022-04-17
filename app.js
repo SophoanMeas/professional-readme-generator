@@ -4,8 +4,6 @@ const cl = require('cli-color')
 const inquirer = require('inquirer')
 const fs = require('fs')
 const emailValidation = require('nodejs-email-validation')
-const { resolve } = require('path')
-
 
 function error(string) {
     return console.log(cl.redBright.bold(string))
@@ -52,7 +50,7 @@ const promptQuestions = () => {
             type: 'input',
             name: 'installation',
             message: `Enter the ${cl.greenBright.bold('installation instruction.')}`,
-            vlaidate: input => {
+            validate: input => {
                 if (input) {
                     return true;
                 } else {
@@ -76,7 +74,7 @@ const promptQuestions = () => {
             type: 'input',
             name: 'contribution',
             message: `Enter the ${cl.greenBright.bold('contribution guideline.')}`,
-            validae: input => {
+            validate: input => {
                 if (input) {
                     return true;
                 } else {

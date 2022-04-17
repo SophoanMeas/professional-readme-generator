@@ -1,6 +1,6 @@
 
 
-<h1 align="center">ReadMe Generator</h1>
+<h1 align="center">ReadMe</h1>
 
 ---
 
@@ -12,7 +12,7 @@
 
 # Description
 
-generate a readme markdown template
+adsads
 
 # Table of Contents
 
@@ -30,19 +30,19 @@ generate a readme markdown template
 
 # Installation
 
-na
+
  
 # Usage
 
-na
+asd
 
 # Contribution
 
-na
+
 
 # Test
 
-na
+asd
 
 # Questions
 
@@ -57,7 +57,7 @@ Check out my Github for more projects
 
 Have a question? Feel free to drop me an email.
 
-📧[sophoan.meas@hotmail.com](mailto:sophoan.meas@hotmail.com)
+📧[sd@hotmail.com](mailto:sd@hotmail.com)
 
 ---
 
