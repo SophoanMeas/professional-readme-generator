@@ -1,6 +1,6 @@
 
 
-<h1 align="center">README Generator</h1>
+<h1 align="center">README</h1>
 
 ---
 
@@ -11,7 +11,7 @@
 
 # Description
 
-This app allows the developer to generator a README markdown file 
+This app allows the developer to generator a README markdown file
 
 # Table of Contents
 
@@ -29,19 +29,19 @@ This app allows the developer to generator a README markdown file
 
 # Installation
 
-1. clone repo.  2. type "npm i" vs code terminal 3. type "node app.js" to run the app 
+1. clone repo. 2. type "npm i" in the terminal 3. type "node app.js" to run the app
  
 # Usage
 
-To run the app type "ndoe app.js" in the terminal to start the application. A series of command-line prompt questions will guide you. Please provide the information accordingly. Once done, the app will generate a README.md file.
+N/A
 
 # Contribution
 
-n/a
+N/A
 
 # Test
 
-n/a
+N/A
 
 # Questions
 
@@ -66,4 +66,6 @@ Have a question? Feel free to drop me an email.
 #### Licensed under *GNU*
 
 ---
-    
+
+## Screenshot
+![Alt text](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/img/screenshot.gif)
