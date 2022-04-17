@@ -29,9 +29,18 @@ This app allows the developer to generator a README markdown file
 
 # Installation
 
-1. clone repo. 2. type "npm i" in the terminal 3. type "node app.js" to run the app
+1. clone repo. 
+2. type "npm i" in the terminal 
+3. type "node app.js" to run the app
  
 # Usage
+
+- Run the app by typing "node app.js" in the terminal. 
+- A series of cmd-line prompt questions will guide you through the process. 
+- Provide the necessary information when prompt.
+- When completed a README.md file will be created with your information provided.
+- When prompt for "License" please indicated which license you have added to your repo.
+- A license badge will be added below the project title * it will appear as 
 
 N/A
 
