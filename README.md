@@ -40,9 +40,7 @@ This app allows the developer to generator a README markdown file
 - Provide the necessary information when prompt.
 - When completed a README.md file will be created with your information provided.
 - When prompt for "License" please indicated which license you have added to your repo.
-- A license badge will be added below the project title * it will appear as ![badge](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/images/repo-not-found.png)
-
-N/A
+- A license badge will be added below the project title * it will appear as ![badge](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/images/repo-not-found.png) if you have not added a LICENSE to your repo
 
 # Contribution
 
