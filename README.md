@@ -68,4 +68,4 @@ Have a question? Feel free to drop me an email.
 ---
 
 ## Screenshot
-![Alt text](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/img/screenshot.gif)
+![Alt text](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/images/screenshot.gif)
