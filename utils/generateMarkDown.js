@@ -5,8 +5,11 @@ function generateMarkDown(data) {
 
 ---
 
-![License Badge](https://img.shields.io/github/license/${data.githubUser}/${data.repoName}?&logo=${data.license})
+![License Badge](https://img.shields.io/github/license/sophoanMeas/professional-readme-generator?&logo=GNU)
 
+[![GitHub version](https://badge.fury.io/gh/sophoanMeas%2Fprofessional-readme-generator.svg)](https://badge.fury.io/gh/sophoanMeas%2Fprofessional-readme-generator)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![npm version](https://badge.fury.io/js/inquirer.svg)](https://badge.fury.io/js/inquirer)
 
 # Description
 
