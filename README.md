@@ -78,4 +78,4 @@ Have a question? Feel free to drop me an email.
 ![Alt text](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/images/screenshot.gif)
 
 ## Tutorial Video
-[![](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/images/tutorial.png)](<a href="https://drive.google.com/drive/folders/1owQdfGeOZITQP7xq83D-n1IsQUndFNci" target="_blank">)
+[![](https://github.com/SophoanMeas/professional-readme-generator/blob/main/assets/images/tutorial.png)](https://drive.google.com/drive/folders/1owQdfGeOZITQP7xq83D-n1IsQUndFNci)
