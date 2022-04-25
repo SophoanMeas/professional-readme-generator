@@ -11,7 +11,7 @@
 
 # Description
 
-This app allows the developer to generator a README markdown file
+This app allows the developer to generate a README markdown file
 
 # Table of Contents
 
